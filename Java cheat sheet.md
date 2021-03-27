@@ -741,7 +741,8 @@ A thread is always in one of the following five states, it can move from state t
 - **Creating Thread**
 - **Extending Thread class**
 - **Implementing Runnable interface**
-<img src="/food.png">
+
+![Java Thread](https://github.com/sunanda35/cheat-sheets/blob/master/assets/java/java1.png?raw=true)
 
 ### Common Methods Of Thread Class
 
@@ -1301,11 +1302,13 @@ Memory management is :
 - Process of allocating new objects
 - Properly removing unused objects( garbage collection)
 
-<img src="/df">
+
+![Java Memory allocation](https://github.com/sunanda35/cheat-sheets/blob/master/assets/java/java2.png?raw=true)
+
 
 Example Illustrating Memory Management
+![Java Stack](https://github.com/sunanda35/cheat-sheets/blob/master/assets/java/java3.png?raw=true)
 
-<img src="/sdf">
 
 - When a method is called, frame is created on the top of the stack.
 - Once a method as completed execution, the flow of control returns to the calling method and its corresponding stack frame is flushed.
